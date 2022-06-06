@@ -1,0 +1,11 @@
+q1.How many records are there?
+
+1154112
+
+q2. What's the average trip duration in January?
+
+19.1672240937939
+
+q3. How many records did you drop?
+
+
