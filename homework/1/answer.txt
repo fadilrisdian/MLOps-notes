@@ -6,6 +6,21 @@ q2. What's the average trip duration in January?
 
 19.1672240937939
 
-q3. How many records did you drop?
+How many records did you drop?
 
+44286
+
+q3. What's the fractions of missing values for the pickup location ID?
+
+83%
+
+q4. Let's apply one-hot encoding to the pickup and dropoff location IDs. We'll use only these two features for our model. 
+
+* Turn the dataframe into a list of dictionaries
+* Fit a dictionary vectorizer 
+* Get a feature matrix from it
+
+What's the dimensionality of this matrix? (The number of columns).
+
+* 525
 
