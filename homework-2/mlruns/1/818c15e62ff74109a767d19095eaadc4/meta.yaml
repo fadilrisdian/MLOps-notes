@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fadilrisdian/MLOps-zoomcamp-hw/homework-2/mlruns/1/818c15e62ff74109a767d19095eaadc4/artifacts
+end_time: 1654854732914
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 818c15e62ff74109a767d19095eaadc4
+run_uuid: 818c15e62ff74109a767d19095eaadc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654854688727
+status: 3
+tags: []
+user_id: fadilrisdian
